@@ -1,0 +1,11 @@
+{
+  "name": "my_node_server",
+  "version": "0.0.1",
+  "description": "'this is my description'",
+  "main": "createServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vasu",
+  "license": "ISC"
+}
